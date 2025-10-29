@@ -58,6 +58,6 @@ Here to build, learn, and make tools that matter.
 
 <br>
  
-<b>Email:</b> unexpressedrecital@gmail.com  
+**Email**: unexpressedrecital<span></span>@gmail.com  
 
 </div>
