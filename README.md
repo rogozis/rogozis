@@ -46,14 +46,14 @@ Here to build, learn, and make tools that matter.
 
 <a href="https://github.com/rogozis" target="_blank">
   <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/github.svg" width="22" style="vertical-align: middle; filter: invert(39%) sepia(16%) saturate(867%) hue-rotate(230deg) brightness(94%) contrast(85%);"/>  
-  <b>GitHub:</b> @rogozis
+  @rogozis
 </a>  
 
 <br>
 
 <a href="https://t.me/Rogozis" target="_blank">
   <img src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg" width="22" style="vertical-align: middle;"/>  
-  <b>Telegram:</b> Rogozis
+  Rogozis
 </a>  
 
 <br>
