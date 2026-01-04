@@ -3,11 +3,11 @@
 </p>
 
 <h1 align="center">
-  Привет, я backend Python-разработчик
+  Python backend developer
 </h1>
 
 <p align="center">
-  Пишу чистый, масштабируемый и быстрый код на Python
+  I work with several instruments, learn to create AI 
 </p>
 
 <div align="center">
@@ -22,18 +22,13 @@
 
 ### Обо мне
 
-- Специализируюсь на backend-разработке  
-- Люблю чистую архитектуру и высокую производительность  
-- Работаю с высоконагруженными проектами  
-- Пишу тесты и документацию  
+- Specialized on backend development  
+- Clean architecture and performance  
+- High-load    
 
 ### Проекты
 
-- [Wedding Invitation](https://github.com/your-username/WeddingApp) — электронное свадебное приглашение с RSVP и базой данных  
-- [Learnova](https://github.com/your-username/Learnova) — онлайн-платформа для курсов  
-- [Shop API](https://github.com/your-username/shop-api) — REST API интернет-магазина на FastAPI  
 
-(добавляй свои реальные проекты сюда)
 
 ### Стек
 
