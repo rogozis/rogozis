@@ -1,63 +1,77 @@
+<p align="center">
+  <img src="https://github.com/your-username/your-username/raw/main/assets/header.gif" width="800" alt="Backend Python Developer"/>
+</p>
+
+<h1 align="center">
+  Привет, я backend Python-разработчик
+</h1>
+
+<p align="center">
+  Пишу чистый, масштабируемый и быстрый код на Python
+</p>
+
+<div align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI"/>
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
+</div>
+
+<br/>
+
+### Обо мне
+
+- Специализируюсь на backend-разработке  
+- Люблю чистую архитектуру и высокую производительность  
+- Работаю с высоконагруженными проектами  
+- Пишу тесты и документацию  
+
+### Проекты
+
+- [Wedding Invitation](https://github.com/your-username/WeddingApp) — электронное свадебное приглашение с RSVP и базой данных  
+- [Learnova](https://github.com/your-username/Learnova) — онлайн-платформа для курсов  
+- [Shop API](https://github.com/your-username/shop-api) — REST API интернет-магазина на FastAPI  
+
+(добавляй свои реальные проекты сюда)
+
+### Стек
+
+<div align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI"/>
+  <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white" alt="Django"/>
+  <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white" alt="Flask"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
+  <img src="https://img.shields.io/badge/Redis-DC382C?style=flat-square&logo=redis&logoColor=white" alt="Redis"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker"/>
+  <img src="https://img.shields.io/badge/Docker%20Compose-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker Compose"/>
+  <img src="https://img.shields.io/badge/Gunicorn-499848?style=flat-square&logo=gunicorn&logoColor=white" alt="Gunicorn"/>
+  <img src="https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white" alt="Nginx"/>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git"/>
+</div>
+
+### Контакты
+
 <div align="center">
 
-  <img src="https://i.pinimg.com/1200x/e5/89/81/e589817c4b977a3a3c98a9a71e03bf08.jpg" alt="Banner" style="border-radius: 10px;"/>
-
-  <h1>rogozis</h1>
-  <h3>Backend Python Developer • Indie Maker • Polyglot (EN / RU / CN)</h3>
-
-  <p>Building backend systems and indie projects that solve real problems.</p>
-
-  <img src="https://readme-typing-svg.herokuapp.com?color=%2300C9A7&size=22&center=true&vCenter=true&width=420&lines=Backend+Development;Machine+Learning;Data+Processing" alt="Typing Animation"/>
+  <a href="https://t.me/your_username">
+    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/your-username">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="mailto:your.email@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
 
 </div>
 
----
+<br/>
 
-### 👤 About Me  
-Backend developer focused on clean architecture, reliability, and practical problem-solving.
-Work with ML, SQL databases and general web frameworks.
-Here to build, learn, and make tools that matter.
-
----
-
-### 🚀 Projects  
-> Personal projects coming soon - focused on backend tools, automation, gaining new tech experiences.
-
----
-
-### 🛠 Tech Stack  
-<div align="center">
-
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
-<img src="https://img.shields.io/badge/DRF-ff1709?style=for-the-badge&logo=django&logoColor=white" />
-<img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" />
-<img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white" />
-<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-<img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
-
-</div>
-
----
-
-### 📫 Contacts  
-
-<div align="center">
-
-<a href="https://github.com/rogozis" target="_blank">
-  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/github.svg" width="22" style="vertical-align: middle; filter: invert(39%) sepia(16%) saturate(867%) hue-rotate(230deg) brightness(94%) contrast(85%);"/>  
-  @rogozis
-</a>  
-
-<br>
-
-<a href="https://t.me/Rogozis" target="_blank">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg" width="22" style="vertical-align: middle;"/>  
-  Rogozis
-</a>  
-
-<br>
- 
-**Email**: unexpressedrecital<span></span>@gmail.com  
-
-</div>
+<p align="center">
+  Буду рад новым интересным задачам и проектам
+</p>
