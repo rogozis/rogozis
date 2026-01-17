@@ -1,10 +1,5 @@
 # Dmitry - Backend Python Developer 
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_NICKNAME&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_NICKNAME&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
-</p>
-
 ---
 
 ### 🚀 About Me
